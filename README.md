@@ -1,3 +1,3 @@
-# React_Youtube_Componen
+# React Youtube Component
 
-Integration of youtube component via Iframe on external site.
+Practice to demonstrate Iframe use inside a react component.
